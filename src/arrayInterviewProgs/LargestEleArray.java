@@ -1,4 +1,4 @@
-package collectionInterviewQues;
+package arrayInterviewProgs;
 
 import java.util.Arrays;
 

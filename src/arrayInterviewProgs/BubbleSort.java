@@ -1,4 +1,4 @@
-package collectionInterviewQues;
+package arrayInterviewProgs;
 
 public class BubbleSort {
 
