@@ -13,7 +13,6 @@ public class Add2ArraysIn1 {
 		for (int ref : c) {
 			System.out.println(ref);
 		}
-
 	}
 
 }

@@ -18,5 +18,4 @@ public class RemoveDuplicatesFromArray {
 		System.out.println("duplictes are remvoed from array a : " + hs);
 
 	}
-
 }

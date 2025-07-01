@@ -19,7 +19,6 @@ public class CommonElementsIn2Array {
 				System.out.println(ref1);
 			}
 		}
-
-	                    }
+ }
 
 }

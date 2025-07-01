@@ -19,5 +19,4 @@ public class Merge2Arrays {
 		System.out.println("third largest element in this array is: " + c[c.length - 3]);
 
 	}
-
 }
