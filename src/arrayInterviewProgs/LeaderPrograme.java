@@ -6,7 +6,8 @@ public class LeaderPrograme {
 		
 		// right side element is greater than left element 
 		
-		int arr[]= {16,17,4,3,5,2};
+		//int arr[]= {16,17,4,3,5,2}
+         int arr [] = {1,1,2,2,3,3,1,0};
 		int length = arr.length;
 		int maxRight=arr[length-1];
 		
